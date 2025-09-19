@@ -3,8 +3,6 @@
 ## 🚀 关于我
 - 📫 联系方式: [xiadong1234ac@163.com]
 
-![brianxiadong's GitHub stats](https://github-immortality.vercel.app/api?username=brianxiadong)
-
 ## 🛠 技术栈
 ### 编程语言
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
